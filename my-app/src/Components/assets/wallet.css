@@ -1,0 +1,30 @@
+.wallet{
+    margin-top: 20px;
+    background-color: rgb(249 247 247);
+    border-radius: 10px;
+    box-shadow:5px 7px rgb(161, 161, 161);
+    height: 20rem;
+}
+.avt{
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.topic_wallet{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+span{
+    padding: 0.35rem 0.5rem;
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+input{
+    border-radius: 5px;
+    border: 0.75px solid ;
+    padding: 1px 5px;
+}

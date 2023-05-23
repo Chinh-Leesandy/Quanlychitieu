@@ -1,0 +1,40 @@
+.loginfrom{
+    margin-top: 3rem;
+    width: 35%;
+    height: 16rem;
+    background-color: rgb(249 247 247);
+    border-radius: 10px;
+    box-shadow:3px 5px rgb(161, 161, 161);
+}
+.text{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.username{
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+.password{
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+.btn_login{
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.2rem;
+    width: 20%;
+    height: 1.5rem;
+    text-align: center;
+    border-radius: 5px;
+}
+.inp_user{
+    padding: 3px;
+    font-size: 1rem;
+}
+.inp_pass{
+    padding: 3px;
+    font-size: 1rem;
+}
+.topic{
+    margin-top: 0.75rem;
+}
